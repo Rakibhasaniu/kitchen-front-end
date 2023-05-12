@@ -7,9 +7,7 @@
 
 # Site Link
 
-    # clinte side source code : https://github.com/Porgramming-Hero-web-course/b6a11-service-review-client-side-codewithashim
-
-    # server side source code : https://github.com/Porgramming-Hero-web-course/b6a11-service-review-server-side-codewithashim
+   
 
     #live site link : https://himu-kitchen.web.app/
 
